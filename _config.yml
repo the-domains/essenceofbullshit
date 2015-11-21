@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.09017063172098594
+  lightness: 0.06921318982961455
+  rhythmicContrast: 0.07702511853974292
+  saturation: 0.03423295318189001
+cta: {}
+layout_spectrum: 0
+name: essenceofbullshit
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.335304
